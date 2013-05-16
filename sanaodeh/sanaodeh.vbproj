@@ -81,7 +81,6 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="428685_271287183008435_1642533240_n.jpg" />
     <Content Include="main.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>

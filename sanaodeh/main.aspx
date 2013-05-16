@@ -14,17 +14,13 @@
             font-size: xx-large;
             color: #660066;
         }
-        .auto-style2 {
-            width: 459px;
-            height: 310px;
-        }
-    </style>
+        </style>
 </head>
 <body>
     <form id="form1" runat="server">
     <div class="auto-style1">
     
         <strong>Welcome</strong></div>
-        <img alt="main" class="auto-style2" src="file:///C:/Users/mohammad/Desktop/photo/428685_271287183008435_1642533240_n.jpg" /></form>
+        </form>
 </body>
 </html>
